@@ -7,3 +7,4 @@ a = 13
 b = 5
 print(plus(a, b))
 print(mult(a, b))
+print(multx(a, b, c))
