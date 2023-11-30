@@ -8,3 +8,4 @@ b = 5
 print(plus(a, b))
 print(plusx(a, b, 2))
 print(mult(a, b))
+print(multx(a, b, c))
